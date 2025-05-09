@@ -1,0 +1,11 @@
+\shimmy>=2.0
+nltk
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+gym
+stable-baselines3
+torch
+wordcloud
